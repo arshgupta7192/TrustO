@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "191829567547",
+    "firebase_url": "https://test-66540.firebaseio.com",
+    "project_id": "test-66540",
+    "storage_bucket": "test-66540.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191829567547:android:0d577ce8937c848008541e",
+        "android_client_info": {
+          "package_name": "com.trusto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191829567547-hkr1p21j4pstj163t64q9nfpud8u71o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz3tySINFRNSGWyvdu9vhRVWeMW9IEJ4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191829567547-hkr1p21j4pstj163t64q9nfpud8u71o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
